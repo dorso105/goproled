@@ -1,0 +1,6 @@
+The schem and explanation.
+
+From the battery the Positive goes 2 ways.
+The battery goes towards the magnetic connector and the switch.
+The magnetic connector is to charge the battery and the switch is to supply power towards the Out (the pcb)
+the negative goes 2 ways as well. it comes off the battery and towards the magnetic connector to charge the battery. It also supplys a nuetral power to the outage (pcb)
