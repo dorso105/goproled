@@ -7,6 +7,7 @@ Thats why this is full of solderble componants as well as a gopro mount on the b
 
 All slots are provided in the 3d model for components and the shell should just glue together.
  - hoping to add hardware soon
+
 Please see "schem" in my repo for wiring.
 
 All  3d files are in the link below.
