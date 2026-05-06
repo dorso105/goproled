@@ -5,8 +5,9 @@ Ive been making some pcbs for a while now and decided to just make one myself.
 I also own multiple gopros and a 3d printer as well of a soldering iron.
 Thats why this is full of solderble componants as well as a gopro mount on the bottom 
 
-All slots are provided in the 3d model for components and the shell should just glue together.
- - hoping to add hardware soon
+All slots are provided in the 3d model for components and the shell should just screw together with m1.2/m1.4 screws.
+
+Please note the PCB, magnetic connector and button may need filling to stay in place. Filling can just be silicon or epoxy.
 
 Please see "schem" in my repo for wiring.
 
